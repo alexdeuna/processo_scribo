@@ -14,4 +14,5 @@ function sum() {
   } else {
     alert("Favor digitar um número inteiro e positivo!");
   }
+  
 }
